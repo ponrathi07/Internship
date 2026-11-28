@@ -1,0 +1,34 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "bot",
+        "content": "Hello! I am ChatMate. How can I help you?"
+    },
+    {
+        "role": "user",
+        "content": "tell me about python"
+    },
+    {
+        "role": "bot",
+        "content": "Python is a popular programming language."
+    },
+    {
+        "role": "user",
+        "content": "how i can study"
+    },
+    {
+        "role": "bot",
+        "content": "Make a timetable and practise every day!"
+    },
+    {
+        "role": "user",
+        "content": "bye"
+    },
+    {
+        "role": "bot",
+        "content": "Goodbye! Have a nice day!"
+    }
+]
